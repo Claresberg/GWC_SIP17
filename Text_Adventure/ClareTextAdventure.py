@@ -34,5 +34,9 @@ elif user_input == "right":
 
 
     elif input() == "right":
+<<<<<<< HEAD
         print("You reach a clearing in the maze where a house stands.  The lights are on in the house so it appears that someone or something is in the house.  Do you go inside the house or attempt to walk around it?  Type inside or walk aorund."
+=======
+        print("You reach a clearing in the maze where a house stands.  The lights are on in the house so it appears that someone or something is in the house.  Do you go inside the house or attempt to walk around it?  Type inside or walk aorund.")
+>>>>>>> 85ff06b7a8d85b677a6da7a655830d1de744c90f
 exitonclick()
